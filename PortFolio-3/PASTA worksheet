@@ -12,7 +12,7 @@ II. Define the technical scope
 
 APIs facilitate the exchange of data between customers, partners, and employees, so they should be prioritized. They handle a lot of sensitive data while they connect various users and systems together. However, details such as which APIs are being used should be considered before prioritizing one technology over another. So, they can be more prone to security vulnerabilities because there’s a larger attack surface.
 
-III. Decompose application	- Data flow diagram.PNG
+III. Decompose application	- [[https://github.com/Aarch-code/CyberSec_PortFolio/blob/main/PortFolio-3/Data%20flow%20diagram.PNG]]
 
 IV. Threat analysis	
 ●	Injection
