@@ -22,7 +22,7 @@ V. Vulnerability analysis
 ●	Lack of prepared statements
 ●	Broken API token
 
-VI. Attack modeling	- PASTA attack tree diagram
+VI. Attack modeling	- [[https://github.com/Aarch-code/CyberSec_PortFolio/blob/main/PortFolio-3/PASTA%20attack%20tree.PNG]]
 
 VII. Risk analysis and impact	
 SHA-256, incident response procedures, password policy, principle of least privilege
